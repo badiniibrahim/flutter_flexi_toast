@@ -23,7 +23,11 @@ Liked some of my work? Buy me a coffee. Thanks for your support :heart:
 
 ## Screenshot
 
-![Flexi Toast](ios.png)
+- IOS
+  ![Flexi Toast IOS](ios.jpeg)
+
+- Android
+  ![Flexi Toast Android](android.jpeg)
 
 ## Features
 
